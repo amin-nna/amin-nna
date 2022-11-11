@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amin-nna
-- 👀 I mostly code in Python and C++.
-_ ✅ I also code in Java, C# and JS.
+
+_ ✅ I code in Python, Java, C++, C# and JS.
 - 🌱 I’m currently studying Data Science 
 - 💞️ I’m looking to collaborate on django_project
 - 📫 How to reach me aaminnnaa@gmail.com
